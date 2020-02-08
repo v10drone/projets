@@ -1,0 +1,7 @@
+AvecTemps_60
+AvecBouton
+AvecBoutonS
+AvecBarreTemps
+White
+chiffres
+Difficulté_20

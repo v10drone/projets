@@ -1,0 +1,11 @@
+﻿  Taquin.cpp
+c:\users\daran v\documents\sda projet\sprint3\sprint3\sprint3\taquin.cpp(116): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\daran v\documents\sda projet\sprint3\sprint3\sprint3\taquin.cpp(117): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\daran v\documents\sda projet\sprint3\sprint3\sprint3\taquin.cpp(153): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\daran v\documents\sda projet\sprint3\sprint3\sprint3\taquin.cpp(154): error C2665: 'lire' : aucune des 3 surcharges n'a pu convertir tous les types d'arguments
+  c:\users\daran v\documents\sda projet\sprint3\sprint3\sprint3\liste.h(53): note: est peut-être 'Etat lire(Liste &,unsigned int)'
+  c:\users\daran v\documents\sda projet\sprint3\sprint3\sprint3\taquin.cpp(154): note: lors de la tentative de mise en correspondance de la liste des arguments '(const Liste, int)'
+c:\users\daran v\documents\sda projet\sprint3\sprint3\sprint3\taquin.cpp(160): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\daran v\documents\sda projet\sprint3\sprint3\sprint3\taquin.cpp(161): error C2665: 'lire' : aucune des 3 surcharges n'a pu convertir tous les types d'arguments
+  c:\users\daran v\documents\sda projet\sprint3\sprint3\sprint3\liste.h(53): note: est peut-être 'Etat lire(Liste &,unsigned int)'
+  c:\users\daran v\documents\sda projet\sprint3\sprint3\sprint3\taquin.cpp(161): note: lors de la tentative de mise en correspondance de la liste des arguments '(const Liste, int)'

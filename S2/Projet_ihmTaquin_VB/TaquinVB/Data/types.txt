@@ -1,0 +1,3 @@
+chiffres
+lettres
+symboles

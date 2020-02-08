@@ -1,0 +1,44 @@
+inscription dossard 101
+inscription dossard 102
+inscription dossard 103
+inscription dossard 104
+inscription dossard 105
+inscription dossard 106
+inscription dossard 107
+inscription dossard 108
+inscription dossard 109
+inscription dossard 110
+inscription dossard 111
+Worley France 101
+Shiffrin USA 102
+Brigone Italie 103
+Mowinckel Norvege 104
+Rebensburg Allemagne 105
+Bassino Italie 106
+Hansdotter Suede 107
+Moelgg Italie 108
+Fenninger Autriche 109
+Goggia Italie 110
+Vonn USA 111
+0 104 180.00
+1 105 Rebensburg Allemagne 200.70
+1 106 Bassino Italie 215.10
+1 107 Hansdotter Suede 240.80
+1 109 Fenninger Autriche 250.90
+1 108 Moelgg Italie 260.30
+1 103 Brigone Italie 295.40
+1 104 Mowinckel Norvege 320.50
+1 102 Shiffrin USA 358.10
+1 101 Worley France 358.20
+detection_fin_course
+2 106 Bassino Italie 384.10
+2 111 Vonn USA 384.40
+2 105 Rebensburg Allemagne 401.70
+2 107 Hansdotter Suede 439.80
+2 110 Goggia Italie 441.30
+2 109 Fenninger Autriche 449.90
+2 108 Moelgg Italie 461.30
+2 103 Brigone Italie 494.40
+2 104 Mowinckel Norvege 519.50
+disqualifie 102 Shiffrin USA
+disqualifie 101 Worley France

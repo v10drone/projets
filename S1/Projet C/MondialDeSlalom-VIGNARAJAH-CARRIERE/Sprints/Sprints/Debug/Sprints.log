@@ -1,0 +1,10 @@
+﻿  Sprint4.c
+c:\users\daran v\documents\mondialdeslalom-vignarajah-carriere\sprints\sprints\sprint4.c(144): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\daran v\documents\mondialdeslalom-vignarajah-carriere\sprints\sprints\sprint4.c(192): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\daran v\documents\mondialdeslalom-vignarajah-carriere\sprints\sprints\sprint4.c(188): warning C4101: 'mesure' : variable locale non référencée
+c:\users\daran v\documents\mondialdeslalom-vignarajah-carriere\sprints\sprints\sprint4.c(239): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\daran v\documents\mondialdeslalom-vignarajah-carriere\sprints\sprints\sprint4.c(243): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\daran v\documents\mondialdeslalom-vignarajah-carriere\sprints\sprints\sprint4.c(255): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+c:\users\daran v\documents\mondialdeslalom-vignarajah-carriere\sprints\sprints\sprint4.c(266): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\daran v\documents\mondialdeslalom-vignarajah-carriere\sprints\sprints\sprint4.c(271): warning C4018: '<' : incompatibilité signed/unsigned
+  Sprints.vcxproj -> C:\Users\Daran V\Documents\MondialDeSlalom-VIGNARAJAH-CARRIERE\Sprints\Debug\Sprints.exe

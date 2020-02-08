@@ -1,0 +1,188 @@
+C:\Users\ALESSIO\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\ALESSIO\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\ALESSIO\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\ALESSIO\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\ALESSIO\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+C:\Users\ALESSIO\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\ALESSIO\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\ALESSIO\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\ALESSIO\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\ALESSIO\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\ALESSIO\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\alexh\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\alexh\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\alexh\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\alexh\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\alexh\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+C:\Users\alexh\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\alexh\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+C:\Users\alexh\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form3.resources
+C:\Users\alexh\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form4.resources
+C:\Users\alexh\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\alexh\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\alexh\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\alexh\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\alexh\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\alexh\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\Daran V\Downloads\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\Daran V\Downloads\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\Daran V\Downloads\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\Daran V\Downloads\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\Daran V\Downloads\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+C:\Users\Daran V\Downloads\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\Daran V\Downloads\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+C:\Users\Daran V\Downloads\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form3.resources
+C:\Users\Daran V\Downloads\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form4.resources
+C:\Users\Daran V\Downloads\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form5.resources
+C:\Users\Daran V\Downloads\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form6.resources
+C:\Users\Daran V\Downloads\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Daran V\Downloads\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\Daran V\Downloads\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\Daran V\Downloads\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\Daran V\Downloads\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\Daran V\Downloads\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\Daran V\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\Daran V\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\Daran V\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\Daran V\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\Daran V\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+C:\Users\Daran V\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Daran V\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\Daran V\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\Daran V\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\Daran V\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\Daran V\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\Daran V\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.form_menu.resources
+C:\Users\Daran V\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.form_jeu.resources
+C:\Users\Daran V\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.form_score.resources
+C:\Users\Daran V\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.form_option.resources
+C:\Users\Daran V\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.form_enregistrersous.resources
+C:\Users\Daran V\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.form_nvtaquin.resources
+C:\Users\ALESSIO\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.form_menu.resources
+C:\Users\ALESSIO\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.form_jeu.resources
+C:\Users\ALESSIO\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.form_score.resources
+C:\Users\ALESSIO\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.form_option.resources
+C:\Users\ALESSIO\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.form_enregistrersous.resources
+C:\Users\ALESSIO\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.form_nvtaquin.resources
+C:\Users\ALESSIO\Desktop\test\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\ALESSIO\Desktop\test\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\ALESSIO\Desktop\test\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\ALESSIO\Desktop\test\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\ALESSIO\Desktop\test\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+C:\Users\ALESSIO\Desktop\test\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.form_menu.resources
+C:\Users\ALESSIO\Desktop\test\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.form_jeu.resources
+C:\Users\ALESSIO\Desktop\test\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.form_score.resources
+C:\Users\ALESSIO\Desktop\test\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.form_option.resources
+C:\Users\ALESSIO\Desktop\test\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.form_enregistrersous.resources
+C:\Users\ALESSIO\Desktop\test\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.form_nvtaquin.resources
+C:\Users\ALESSIO\Desktop\test\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\ALESSIO\Desktop\test\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\ALESSIO\Desktop\test\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\ALESSIO\Desktop\test\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\ALESSIO\Desktop\test\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\ALESSIO\Desktop\test\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+Z:\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+Z:\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+Z:\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+Z:\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+Z:\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+Z:\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form_menu.resources
+Z:\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form_jeu.resources
+Z:\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form_score.resources
+Z:\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.form_option.resources
+Z:\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.form_enregistrersous.resources
+Z:\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.form_nvtaquin.resources
+Z:\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+Z:\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+Z:\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+Z:\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+Z:\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+Z:\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\vallas\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\vallas\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\vallas\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\vallas\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\vallas\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+C:\Users\vallas\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form_menu.resources
+C:\Users\vallas\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form_jeu.resources
+C:\Users\vallas\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form_score.resources
+C:\Users\vallas\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.form_option.resources
+C:\Users\vallas\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.form_enregistrersous.resources
+C:\Users\vallas\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.form_nvtaquin.resources
+C:\Users\vallas\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\vallas\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\vallas\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\vallas\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\vallas\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\vallas\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\digiacom\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\digiacom\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\digiacom\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\digiacom\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\digiacom\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+C:\Users\digiacom\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form_menu.resources
+C:\Users\digiacom\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form_jeu.resources
+C:\Users\digiacom\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form_score.resources
+C:\Users\digiacom\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.form_option.resources
+C:\Users\digiacom\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.form_enregistrersous.resources
+C:\Users\digiacom\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.form_nvtaquin.resources
+C:\Users\digiacom\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\digiacom\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\digiacom\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\digiacom\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\digiacom\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\digiacom\Desktop\Taquin VB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\ALESSIO\Desktop\TaquinVB\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\ALESSIO\Desktop\TaquinVB\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\ALESSIO\Desktop\TaquinVB\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\ALESSIO\Desktop\TaquinVB\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\ALESSIO\Desktop\TaquinVB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+C:\Users\ALESSIO\Desktop\TaquinVB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form_menu.resources
+C:\Users\ALESSIO\Desktop\TaquinVB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form_jeu.resources
+C:\Users\ALESSIO\Desktop\TaquinVB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form_score.resources
+C:\Users\ALESSIO\Desktop\TaquinVB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.form_option.resources
+C:\Users\ALESSIO\Desktop\TaquinVB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.form_enregistrersous.resources
+C:\Users\ALESSIO\Desktop\TaquinVB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.form_nvtaquin.resources
+C:\Users\ALESSIO\Desktop\TaquinVB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\ALESSIO\Desktop\TaquinVB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\ALESSIO\Desktop\TaquinVB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\ALESSIO\Desktop\TaquinVB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\ALESSIO\Desktop\TaquinVB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\ALESSIO\Desktop\TaquinVB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\ALESSIO\Desktop\TaquinVB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form7.resources
+Z:\ProjetIHMTAQUIN\TaquinVB\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+Z:\ProjetIHMTAQUIN\TaquinVB\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+Z:\ProjetIHMTAQUIN\TaquinVB\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+Z:\ProjetIHMTAQUIN\TaquinVB\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+Z:\ProjetIHMTAQUIN\TaquinVB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+Z:\ProjetIHMTAQUIN\TaquinVB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form_menu.resources
+Z:\ProjetIHMTAQUIN\TaquinVB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form_jeu.resources
+Z:\ProjetIHMTAQUIN\TaquinVB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form_score.resources
+Z:\ProjetIHMTAQUIN\TaquinVB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.form_option.resources
+Z:\ProjetIHMTAQUIN\TaquinVB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form_enregistrersous.resources
+Z:\ProjetIHMTAQUIN\TaquinVB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.form_nvtaquin.resources
+Z:\ProjetIHMTAQUIN\TaquinVB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form7.resources
+Z:\ProjetIHMTAQUIN\TaquinVB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+Z:\ProjetIHMTAQUIN\TaquinVB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+Z:\ProjetIHMTAQUIN\TaquinVB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+Z:\ProjetIHMTAQUIN\TaquinVB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+Z:\ProjetIHMTAQUIN\TaquinVB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+Z:\ProjetIHMTAQUIN\TaquinVB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+D:\ProjetIHMTAQUIN\TaquinVB\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+D:\ProjetIHMTAQUIN\TaquinVB\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+D:\ProjetIHMTAQUIN\TaquinVB\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+D:\ProjetIHMTAQUIN\TaquinVB\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+D:\ProjetIHMTAQUIN\TaquinVB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+D:\ProjetIHMTAQUIN\TaquinVB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form_menu.resources
+D:\ProjetIHMTAQUIN\TaquinVB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form_jeu.resources
+D:\ProjetIHMTAQUIN\TaquinVB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form_score.resources
+D:\ProjetIHMTAQUIN\TaquinVB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.form_option.resources
+D:\ProjetIHMTAQUIN\TaquinVB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form_enregistrersous.resources
+D:\ProjetIHMTAQUIN\TaquinVB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.form_nvtaquin.resources
+D:\ProjetIHMTAQUIN\TaquinVB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form7.resources
+D:\ProjetIHMTAQUIN\TaquinVB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+D:\ProjetIHMTAQUIN\TaquinVB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+D:\ProjetIHMTAQUIN\TaquinVB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+D:\ProjetIHMTAQUIN\TaquinVB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+D:\ProjetIHMTAQUIN\TaquinVB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+D:\ProjetIHMTAQUIN\TaquinVB\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
