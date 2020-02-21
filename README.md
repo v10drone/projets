@@ -26,8 +26,9 @@ Liste des projets :
 
 
 Projets mis en ligne :
+* http://daranvignarajah.fr/
+* http://pjs3.daranvignarajah.fr/
 * http://mathsmod.guillaumechalons.fr/
-* http://pjs3.guillaumechalons.fr/
 * http://pweb.guillaumechalons.fr
 * https://guillaumechalons.wixsite.com/smartcities
 
