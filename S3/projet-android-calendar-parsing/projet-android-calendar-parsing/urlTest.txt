@@ -1,0 +1,16 @@
+http://planning.parisdescartes.fr/jsp/custom/modules/plannings/anonymous_cal.jsp?data=4b257cf1283ff9308ccc52f2198575a0c7f281e4e3ad06b85d3374100ac416a42a2c262ab3ba48506729f6560ae33af6db9fed5e05d0fde49312cebb836cbbbc,1
+
+
+
+
+
+
+
+
+Environment.getExternalStorageDirectory() + "/folder"
+
+
+
+
+
+

@@ -1,0 +1,26 @@
+{
+  "name": "calendar_api",
+  "version": "1.0.0",
+  "description": "ICS calendar downloader and parser ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "ICS",
+    "calendar",
+    "parser"
+  ],
+  "author": "Dabi Daran Samar Imane",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "ical": "^0.6.0",
+    "node-fetch": "^2.6.0",
+    "nodemon": "^2.0.2",
+    "volleyball": "^1.5.1"
+  }
+}
